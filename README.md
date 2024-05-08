@@ -1,5 +1,5 @@
 # LU Decomposition 
-
+## Date:
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
@@ -41,12 +41,13 @@ print(x)
 ```
 
 ## Output:
-# To find the L and U matrix
-![Screenshot 2024-04-16 085025](https://github.com/ramya23000505/LU-Decomposition/assets/149370791/6ee7a83c-8a93-475e-bb58-8913cad2aa99)
-![Screenshot 2024-04-16 085033](https://github.com/ramya23000505/LU-Decomposition/assets/149370791/102ec13a-7891-47d4-b902-c5b292dc24de)
-# To find the LU Decomposition of a matrix
-![Screenshot 2024-04-16 085040](https://github.com/ramya23000505/LU-Decomposition/assets/149370791/6422ce54-84b9-49db-81d1-b8b4fd2670dd)
-![Screenshot 2024-04-16 085048](https://github.com/ramya23000505/LU-Decomposition/assets/149370791/f67874e4-6c53-4506-a5af-9a099c2cd6f7)
+### To find the L and U matrix
+![alt text](<5 a in.png>)
+![alt text](<5 a ot.png>)
+
+### To find the LU Decomposition of a matrix
+![alt text](<5 b in.png>)
+![alt text](<5 b ot.png>)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
